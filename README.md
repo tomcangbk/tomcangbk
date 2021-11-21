@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on an Intergrated Monitoring System
 - 💬 Ask me about DevOps
 ### Platform, Language and Tools:
-Linux,Windows,,AWS,GCP,Terraform,CloudFomation,Docker,K8s,Nagios,Icinga,ELK,Telegraf,InfluxDB,Fluentd,Jenkins,CircleCI,Spinnaker,GitlabCI,Python,Bash,Java
+Linux, Windows, AWS, GCP,Terraform, CloudFomation, Docker, K8s, Nagios, Icinga, ELK, Telegraf, InfluxDB, Fluentd, Jenkins, CircleCI, Spinnaker, GitlabCI, Python, Bash, Java
 ###
 linkedin: https://www.linkedin.com/in/pham-trung-duc/
 
