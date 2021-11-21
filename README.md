@@ -1,26 +1,40 @@
 ### Hi there I'm Duc 👋
 
-<!--
-**tomcangbk/tomcangbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I'm working in DevOps role for 6 years:
 
 - 🔭 I’m currently working on Samsung Vietnam Mobile R&D Center
 - 🌱 I’m currently learning anything 🤣
 - 👯 I’m looking to collaborate on an Intergrated Monitoring System
 - 💬 Ask me about DevOps
-### Languages and Tools:
+### Platform, Language and Tools:
+## Platform
 - Linux
+- Windows
+## Cloud
 - AWS
 - GCP
+## Infrastructures
+- Terraform
+- CloudFomation
+## Container 
+- Docker
+- K8s
+## Monitoring/Logging
+- Nagios
+- Icinga
 - ELK
 - Telegraf
 - InfluxDB
 - Fluentd
-- Docker
-- K8s
+## CI/CD
+- Jenkins
+- CircleCI
 - Spinnaker
-- Terraform
+- GitlabCI
+## Languages
+- Python
+- Bash
+- Java
 
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/pham-trung-duc/
 
