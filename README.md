@@ -1,4 +1,4 @@
-### Hi there I'm Duc 👋
+### Hi there, I'm Duc 👋
 
 ## I'm working in DevOps role for 6 years:
 
