@@ -1,6 +1,6 @@
 ### Hi there, I'm Đức 👋
 
-## I'm working in DevOps role for 6 years:
+## I'm working in DevOps role from 2016:
 
 - 🔭 I’m currently working on Samsung Vietnam Mobile R&D Center
 - 🌱 I’m currently learning anything 🤣
