@@ -2,7 +2,7 @@
 
 ## I'm working in DevOps role from 2016:
 
-- 🔭 I’m currently working on Samsung Vietnam Mobile R&D Center
+- 🔭 I’m currently working on ~~Samsung Vietnam Mobile R&D Center~~ NAB Vietnam
 - 🌱 I’m currently learning anything 🤣
 - 👯 I’m looking to collaborate on an Intergrated Monitoring System
 - 💬 Ask me about DevOps
